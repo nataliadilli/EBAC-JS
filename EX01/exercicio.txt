@@ -1,0 +1,40 @@
+                     Exercício 1
+
+
+
+Para realizar a travessia com seus itens o homem deve seguir os seguintes passos:
+
+·        Colocar a cabra no bote;
+
+·        Deixar o lobo e a alfafa na primeira ilha;
+
+·        Atravessar o mar com a cabra;
+
+·        Deixar a cabra na segunda ilha;
+
+·        Retornar a primeira ilha sozinho;
+
+·        Pegar o lobo;
+
+·        Atravessar o mar com o lobo;
+
+·        Deixar o lobo na segunda ilha;
+
+·        Pegar a cabra novamente; 
+
+·        Atravessar o mar com a cabra;
+
+·        Deixar a cabra na primeira ilha e pegar a alfafa;
+
+·        Atravessar o mar com a alfafa;
+
+·        Deixar o lobo e a alfafa segunda ilha;
+
+·        Retornar a primeira ilha sozinho;
+
+·        Pegar a cabra;
+
+·        Atravessar o mar com a cabra;
+
+·        Chegar a segunda ilha com seus três itens;
+
